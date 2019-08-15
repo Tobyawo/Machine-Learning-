@@ -1,2 +1,2 @@
-# neural-network
-Using deep learning for classification
+predicting house prices with machine learning
+
